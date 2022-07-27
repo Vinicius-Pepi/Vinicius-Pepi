@@ -12,11 +12,6 @@
 -  🎮 Try to beat me at CS:GO and fail miserably.
 </p>
   
-<p align="center">
-- 😅  Fun fact: I live in Brazil and I speak Portuguese and English.
-</p>
-  
-
 <br/>  
 
 <h2 align="center" >
