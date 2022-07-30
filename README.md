@@ -1,11 +1,11 @@
 ### <div align="center">I'm Vinicius, on the way to becoming a full-stack developer 👨‍💻 </div>  
   
 <p align="center">
-- 🙊 I’m currently working on personal projects.
+- 💻 I’m currently working on personal projects.
 </p>
   
 <p align="center">
-- 🌱 I'm currently studying Information Systems at UAM.  
+- 📚 I'm currently studying Information Systems at UAM.  
 </p>
   
 <p align="center">
